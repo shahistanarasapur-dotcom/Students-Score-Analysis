@@ -1,5 +1,6 @@
 Here is the complete Python code for your Streamlit web application. It parses the analysis from your `NaviBayes.ipynb` notebook and converts it into a fully dynamic, interactive data science dashboard using Streamlit, Plotly, and Pandas.
 
+### objective -  Analysing the student score and give feedback by using ml model
 ### `app.py`
 <img width="1600" height="900" alt="Screenshot 2026-09-25 111753" src="https://github.com/user-attachments/assets/49ddd806-f3d8-4833-996f-414e56651c0a" />
 <img width="1600" height="900" alt="Screenshot 2026-09-25 111649" src="https://github.com/user-attachments/assets/c9fbb97b-945e-44a5-ac53-1af9d64a836c" />
